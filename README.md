@@ -12,6 +12,6 @@
 <p>This beautiful national park is located in Wyoming. This park contains 200 miles of trails and has many more amazing features. You can floast down the Snake River or explore the mountains. The busiest time of year is in May because people want to enjoy the nice weather with the many lakes located in the park. The laregest lake is Jackson Lake. Hiking, camping and fishing are the most popular activities to do in the park. There is even a large amount of wildlife throughout the park that you may come across. (Click on the picture to find out more information on Grand Teton National Park.)</p>
 
 
-<h4>Wrangell–St. Elias in Alaska</h4>
+<h4>Wrangell–St. Elias National Park</h4>
 <p><a href="https://www.nps.gov/wrst/index.htm"><img src="alaska.png.png" alt="alaska"></a></p>
-<
+<p>Wrangell-St. Elias National Park is the largest national park in the United States and is located in Alaska. This park is the largest park by land and it is 13.2 million acres. Four Alaska native groups call Wrangell-St. Elias their home. </p>
