@@ -13,5 +13,5 @@
 
 
 <h4>Wrangell–St. Elias in Alaska</h4>
-<p><a href="https://www.nps.gov/wrst/index.htm"><img src="alaksa.png.png" alt="alaska"></a></p>
+<p><a href="https://www.nps.gov/wrst/index.htm"><img src="alaska.png.png" alt="alaska"></a></p>
 <
