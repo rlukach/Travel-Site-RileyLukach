@@ -1,8 +1,6 @@
 # Travel-Site-RileyLukach
 <!DOCTYPE html>
 <html>
-  <title>Link Css to HTML</title>
-    <link rel="sylesheet" type="text/css" href="styles.css">
   <h2>National Parks in the United States</h2>
   <h4>Great Smoky Mountains National Park</h4>
 <p><a href="https://www.explorebrysoncity.com/things-to-do/great-smoky-mountains-national-park/"><img src="great.png.png" alt="great"></a></p>
