@@ -14,4 +14,4 @@
 
 <h4>Wrangell–St. Elias National Park</h4>
 <p><a href="https://www.nps.gov/wrst/index.htm"><img src="alaska.png.png" alt="alaska"></a></p>
-<p>Wrangell-St. Elias National Park is the largest national park in the United States and is located in Alaska. This park is the largest park by land and it is 13.2 million acres. Four Alaska native groups call Wrangell-St. Elias their home. </p>
+<p>Wrangell-St. Elias National Park is the largest national park in the United States and is located in Alaska. This park is the largest park by land and it is 13.2 million acres. Four Alaska native groups call Wrangell-St. Elias their home. Guided tours are offered too during the summer by park rangers. There are a variety of activities you can do in the park. Some of the activities are backpacking, mountaineering, floating, boating, hunting, fishing, wildlife viewing, motorized vehicles, and many other winter activities.<em>(Click on the picture to learn more about the different areas and roads in the park)</em>></p>
