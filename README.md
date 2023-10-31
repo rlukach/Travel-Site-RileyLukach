@@ -1,6 +1,24 @@
 # Travel-Site-RileyLukach
 <!DOCTYPE html>
 <html>
+    <style>
+        body { 
+        background-color: #f3d9b7;
+        }
+    </style>
+    <style>
+        h2 {
+            color: #3d8689;
+        }
+    </style>
+    <style>
+        h4 {
+            color: #5b9071;
+            border-bottom-style: solid;
+            border-bottom-width: 4px;
+            border-bottom-color: #5887b5;
+        }
+    </style>
   <h2>National Parks in the United States</h2>
   <h4>Great Smoky Mountains National Park</h4>
 <p><a href="https://www.explorebrysoncity.com/things-to-do/great-smoky-mountains-national-park/"><img src="great.png.png" alt="great"></a></p>
