@@ -1,22 +1,22 @@
 # Travel-Site-RileyLukach
 <!DOCTYPE html>
 <html>
-    <style>
+ <style>
         body { 
-        background-color: #f3d9b7;
+        background-color: #eed9c9;
         }
     </style>
     <style>
         h2 {
-            color: #3d8689;
+            color: #187c80;
         }
     </style>
     <style>
         h4 {
-            color: #5b9071;
+            color: #438c61;
             border-bottom-style: solid;
             border-bottom-width: 4px;
-            border-bottom-color: #5887b5;
+            border-bottom-color: #4b87c2;
         }
     </style>
   <h2>National Parks in the United States</h2>
